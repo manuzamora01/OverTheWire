@@ -6,8 +6,8 @@
 
 Conectarse al servidor de OverTheWire usando SSH con las credenciales proporcionadas.
 
-![Level 0](anexos/Pasted image 20260521103833.png)
-``
+<img width="1005" height="262" alt="image" src="https://github.com/user-attachments/assets/243e2481-290c-4e24-8a2c-aeb8376c3162" />
+
 
 ---
 
