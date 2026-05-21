@@ -52,7 +52,8 @@ Encontrar el password del siguiente nivel. 
 
 El password está almacenado en un archivo llamado `readme` dentro del directorio home del usuario.
 
-  ![[Pasted image 20260521104105.png]]
+<img width="1018" height="403" alt="image" src="https://github.com/user-attachments/assets/9bae4106-48fd-4e98-b4e3-21ea5a4d5303" />
+
 
 ---
 
@@ -91,7 +92,8 @@ pwd
 ls
 cat readme
 ```
-![[Pasted image 20260521104125.png|439]]
+<img width="768" height="256" alt="image" src="https://github.com/user-attachments/assets/d924afbd-4656-4d18-a364-f9353806e41b" />
+
 
 ---
 
@@ -105,7 +107,8 @@ Encontrar el password del siguiente nivel. 
 
 El password está almacenado en un archivo llamado `-` dentro del directorio home.
 
-  ![[Pasted image 20260521104600.png]]
+<img width="616" height="370" alt="image" src="https://github.com/user-attachments/assets/a2deabb8-7954-44ef-a164-941b566284ee" />
+
 
 ---
 
@@ -138,7 +141,8 @@ pwd
 ls
 cat ./-
 ```
-![[Pasted image 20260521104622.png]]
+<img width="312" height="195" alt="image" src="https://github.com/user-attachments/assets/bf238614-7c4b-49a3-a2aa-c7e9cf910b6b" />
+
 
 ---
 
@@ -149,7 +153,8 @@ cat ./-
 Encontrar el password del siguiente nivel. 
 El password está almacenado en un archivo llamado `--spaces in this filename--` ubicado en el directorio home.
 
-  ![[Pasted image 20260521111917.png]]
+<img width="834" height="241" alt="image" src="https://github.com/user-attachments/assets/741f28b3-c969-4925-9c91-5275b59bc23c" />
+
 
 ---
 
@@ -179,7 +184,8 @@ ls -l
 cat "--spaces in this filename--"
 ```
 
-![[Pasted image 20260521111922.png]]
+<img width="676" height="172" alt="image" src="https://github.com/user-attachments/assets/138a0fe6-8486-4d3c-b783-597a5d69d449" />
+
 
 ---
 
@@ -193,7 +199,8 @@ Encontrar el password del siguiente nivel. 
 
 El password está almacenado en un archivo oculto dentro del directorio `inhere`.
 
-  ![[Pasted image 20260521112022.png]]
+<img width="544" height="235" alt="image" src="https://github.com/user-attachments/assets/912db7cc-55ee-4f69-a10f-de73c8a2c54b" />
+
 
 ---
 
@@ -229,7 +236,8 @@ ls -la
 cat .Hiding-From-You
 ```
 
-![[Pasted image 20260521112044.png]]
+<img width="606" height="318" alt="image" src="https://github.com/user-attachments/assets/974c1b49-66b5-4377-b442-df906ade6d12" />
+
 
 ---
 
@@ -243,7 +251,8 @@ Encontrar el password del siguiente nivel. 
 
 El password está almacenado en el único archivo **legible por humanos** dentro del directorio `inhere`.
 
-  ![[Pasted image 20260521112710.png]]
+<img width="987" height="279" alt="image" src="https://github.com/user-attachments/assets/e0d27f0b-ffd5-4136-9d9d-cbbcff43b6f8" />
+
 
 ---
 
@@ -285,7 +294,8 @@ cat ./-file01
 cat ./-file02
 ```
 
-![[Pasted image 20260521112717.png]]
+<img width="690" height="717" alt="image" src="https://github.com/user-attachments/assets/21dd99ae-2a2c-46fe-bde0-d7c9eb305fbd" />
+
 
 ---
 
@@ -307,7 +317,8 @@ El password está almacenado en un archivo dentro del directorio `inhere` que cu
 
 - No ejecutable 
 
-  ![[Pasted image 20260521113305.png]]
+<img width="856" height="330" alt="image" src="https://github.com/user-attachments/assets/c095ae5d-8292-44a6-b099-7d22f035e550" />
+
 
 ---
 
@@ -345,7 +356,8 @@ find . -type f -size 1033c ! -executable
 cat ./maybehere07/.file2
 ```
 
-![[Pasted image 20260521113327.png]]
+<img width="450" height="48" alt="image" src="https://github.com/user-attachments/assets/6c2aa8a3-cb5c-465c-931d-a4c41d150fff" />
+
 
 ---
 
@@ -359,7 +371,8 @@ Encontrar el password del siguiente nivel. 
 
 El password está almacenado en el archivo `data.txt`, junto a la palabra clave `millionth`.
 
-  ![[Pasted image 20260521114006.png]]
+<img width="595" height="252" alt="image" src="https://github.com/user-attachments/assets/17fb6a22-7513-430b-8676-24287737c1d7" />
+
 
 ---
 
@@ -391,7 +404,8 @@ ls -l
 cat data.txt | grep millionth
 ```
 
-![[Pasted image 20260521114018.png]]
+<img width="555" height="175" alt="image" src="https://github.com/user-attachments/assets/903f4198-5aed-40cc-851a-10b8c3f27923" />
+
 
 ---
 
@@ -405,7 +419,8 @@ Encontrar el password del siguiente nivel. 
 
 El password está almacenado en el archivo `data.txt` y es la única línea que aparece una sola vez.
 
-  ![[Pasted image 20260521114406.png]]
+<img width="745" height="342" alt="image" src="https://github.com/user-attachments/assets/b4b6ba81-c3bd-4dd4-b1d0-f068dc626c23" />
+
 
 ---
 
@@ -443,7 +458,8 @@ Esto se consigue combinando los comandos `sort` y `uniq`.
 sort data.txt | uniq -u
 ```
 
-![[Pasted image 20260521114359.png]]
+<img width="391" height="81" alt="image" src="https://github.com/user-attachments/assets/64cc8157-53cb-40b9-bfee-54dbe229f343" />
+
 
 ---
 
@@ -457,7 +473,8 @@ Encontrar el password del siguiente nivel. 
 
 El password está almacenado en el archivo `data.txt`, dentro de una de las pocas cadenas legibles, precedida por varios caracteres `=`.
 
-  ![[Pasted image 20260521114953.png]]
+<img width="928" height="247" alt="image" src="https://github.com/user-attachments/assets/6b3211e8-43dd-4c4e-9ae8-82074ec8e33f" />
+
 
 ---
 
@@ -491,4 +508,6 @@ Para ello, se combinan los comandos `strings` y `grep`.
 strings data.txt | grep "="
 ```
 
-![[Pasted image 20260521115023.png]]
+<img width="430" height="256" alt="image" src="https://github.com/user-attachments/assets/c31f7244-d6ed-4690-aa38-660d354b0056" />
+
+
