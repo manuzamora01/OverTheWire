@@ -10,4 +10,4 @@ Laboratorios enfocados en la seguridad de sistemas operativos basados en Linux, 
 
 ### 🎯 PicoCTF
 Retos de seguridad en diversas categorías como explotación web, criptografía, ingeniería inversa y análisis forense.
-*(Próximamente)*
+* [The Beginner's Guide to the Challenge Library](./picoCTF/The_Beginner's_Guide_to_the_Challenge_Library/README.md)
